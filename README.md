@@ -1,2 +1,2 @@
-# comporser_sample
-comporserを試してみたくて作成しました。
+# capistrano_sample
+`capistrano`を試してみたくて作成しました。
